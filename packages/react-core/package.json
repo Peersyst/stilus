@@ -1,0 +1,39 @@
+{
+    "name": "@stilus/react-core",
+    "version": "0.0.1",
+    "license": "MIT",
+    "exports": {
+        ".": {
+            "import": {
+                "types": "./@types/index.d.ts",
+                "default": "./esm/index.js"
+            },
+            "require": {
+                "types": "./@types/index.d.ts",
+                "default": "./node/index.js"
+            }
+        }
+    },
+    "source": "./src/index.ts",
+    "main": "./node/index.js",
+    "module": "./esm/index.js",
+    "types": "./@types/index.d.ts",
+    "scripts": {
+        "build": "node ../../scripts/builder.js",
+        "clean": "rm -rf ./dist"
+    },
+    "dependencies": {
+        "@stilus/core": "^0.0.1",
+        "@babel/runtime": "^7.23.6"
+    },
+    "peerDependenciesMeta": {},
+    "sideEffects": false,
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es6",
+        "lib": ["es2020", "dom"],
+        "jsx": "preserve",
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "noErrorTruncation": false,
+        "allowJs": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "types": ["node"],
+        "paths": {
+            "@stilus/core": ["./packages/core/src"],
+            "@stilus/react-core": ["./packages/react-core/src"],
+            "@stilus/react": ["./packages/react/src"],
+            "@stilus/react-native": ["./packages/react-native/src"]
+        }
+    },
+    "exclude": ["**/.*/", "**/dist", "**/node_modules"]
+}
