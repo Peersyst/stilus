@@ -1,5 +1,6 @@
 {
     "name": "stilus",
+    "description": "An elegant and performant style engine. Groom the styles of your preferred Javascript UI framework.",
     "version": "0.0.0",
     "license": "MIT",
     "scripts": {
@@ -36,5 +37,13 @@
         "Firefox ESR",
         "not dead",
         "node 12"
-    ]
+    ],
+    "homepage": "https://github.com/Peersyst/stilus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Peersyst/stilus"
+    },
+    "bugs": {
+        "url": "https://github.com/Peersyst/stilus/issues"
+    }
 }

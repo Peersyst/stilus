@@ -1,5 +1,6 @@
 {
     "name": "@stilus/core",
+    "description": "The core of an elegant and performant style engine. Groom the styles of your application.",
     "version": "0.0.1",
     "license": "MIT",
     "exports": {
@@ -27,12 +28,12 @@
     },
     "peerDependenciesMeta": {},
     "sideEffects": false,
-    "homepage": "",
+    "homepage": "https://github.com/Peersyst/stilus/tree/main/packages/core",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/tree/main/packages/core"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/issues"
     }
 }

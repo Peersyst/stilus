@@ -1,5 +1,6 @@
 {
     "name": "@stilus/react",
+    "description": "An elegant and performant React style engine. Groom the styles of your React application.",
     "version": "0.0.1",
     "license": "MIT",
     "exports": {
@@ -28,12 +29,12 @@
     },
     "peerDependenciesMeta": {},
     "sideEffects": false,
-    "homepage": "",
+    "homepage": "https://github.com/Peersyst/stilus/tree/main/packages/react",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/tree/main/packages/react"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/issues"
     }
 }

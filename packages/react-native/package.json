@@ -1,5 +1,6 @@
 {
     "name": "@stilus/react-native",
+    "description": "An elegant and performant React Native style engine. Groom the styles of your React Native application.",
     "version": "0.0.1",
     "license": "MIT",
     "exports": {
@@ -30,12 +31,12 @@
     "peerDependencies": {},
     "peerDependenciesMeta": {},
     "sideEffects": false,
-    "homepage": "",
+    "homepage": "https://github.com/Peersyst/stilus/tree/main/packages/react-native",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/tree/main/packages/react-native"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/issues"
     }
 }

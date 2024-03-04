@@ -1,5 +1,6 @@
 {
     "name": "@stilus/react-core",
+    "description": "The core of an elegant and performant React compatible style engine. Groom the styles of your React compatible application.",
     "version": "0.0.1",
     "license": "MIT",
     "exports": {
@@ -28,12 +29,12 @@
     },
     "peerDependenciesMeta": {},
     "sideEffects": false,
-    "homepage": "",
+    "homepage": "https://github.com/Peersyst/stilus/tree/main/packages/react-core",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/tree/main/packages/react-core"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Peersyst/stilus/issues"
     }
 }
